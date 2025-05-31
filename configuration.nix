@@ -12,6 +12,8 @@
     };
   };
 
+  services.teamviewer.enable = true;
+
   hardware.graphics = {
     enable = true;
   };
@@ -159,6 +161,7 @@
      git
      pkgs.gnomeExtensions.arcmenu 
      pkgs.python311
+     obsidian
 ];
 
   # Some programs need SUID wrappers, can be configured further or are
