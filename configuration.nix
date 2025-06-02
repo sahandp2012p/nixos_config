@@ -162,6 +162,8 @@
      pkgs.gnomeExtensions.arcmenu 
      pkgs.python311
      obsidian
+     fira-code
+     fira-code-symbols
 ];
 
   # Some programs need SUID wrappers, can be configured further or are
