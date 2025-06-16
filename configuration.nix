@@ -164,6 +164,9 @@
      obsidian
      fira-code
      fira-code-symbols
+     android-studio
+     jetbrains.idea-community
+     spotify
 ];
 
   # Some programs need SUID wrappers, can be configured further or are
